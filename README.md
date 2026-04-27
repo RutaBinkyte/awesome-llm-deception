@@ -9,11 +9,17 @@ Contributions welcome — please read the [contribution guidelines](contributing
 ---
 
 ## Contents
-
+- [Surveys & Frameworks](#surveys--frameworks)
 - [Behavioral Benchmarks](#behavioral-benchmarks)
 - [Internals-Based Benchmarks](#internals-based-benchmarks)
 - [Methods: Probing & Steering](#methods-probing--steering)
-- [Surveys & Frameworks](#surveys--frameworks)
+
+---
+
+## Surveys & Frameworks
+
+- [AI Deception Survey](https://arxiv.org/abs/2308.14752) - Broad taxonomy of AI deception examples, risks, and mitigations; good entry point for framing. (Park et al., Patterns 2024)
+- [Mechanistic Interpretability for AI Safety](https://arxiv.org/abs/2404.14082) - Survey of mechanistic interpretability methods with explicit AI-safety framing; situates probing work in the broader MI landscape. (Bereska & Gavves, 2024)
 
 ---
 
@@ -60,12 +66,6 @@ Foundational techniques for reading and controlling internal representations.
 - [Scaling Monosemanticity](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html) - Sparse autoencoders on Claude 3 Sonnet surface tens of millions of monosemantic features including deception, sycophancy, and secrecy, some causally active. (Templeton et al., Anthropic, 2024)
 - [Why Some LLMs Fake Alignment](https://arxiv.org/abs/2506.18032) - Tests 25 LLMs on the alignment-faking setup and analyzes why most do not fake while some do; motivates multi-model comparisons. (Sheshadri et al., 2025)
 
----
-
-## Surveys & Frameworks
-
-- [AI Deception Survey](https://arxiv.org/abs/2308.14752) - Broad taxonomy of AI deception examples, risks, and mitigations; good entry point for framing. (Park et al., Patterns 2024)
-- [Mechanistic Interpretability for AI Safety](https://arxiv.org/abs/2404.14082) - Survey of mechanistic interpretability methods with explicit AI-safety framing; situates probing work in the broader MI landscape. (Bereska & Gavves, 2024)
 
 ---
 
