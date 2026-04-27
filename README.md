@@ -4,7 +4,7 @@
 
 Organized into **behavioral benchmarks** (what deception looks like from the outside) and **internals-based work** (what it looks like inside the model). A separate section covers **methods** for probing and steering representations.
 
-Contributions welcome — please read the [contribution guidelines](CONTRIBUTING.md) first.
+Contributions welcome — please read the [contribution guidelines](contributing.md) first.
 
 ---
 
