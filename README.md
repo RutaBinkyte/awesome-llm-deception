@@ -95,9 +95,3 @@ Foundational techniques for reading and controlling internal representations.
 - [Truth is Universal: Robust Detection of Lies in LLMs](https://proceedings.neurips.cc/paper_files/paper/2024/file/f9f54762cbb4fe4dbffdd4f792c31221-Paper-Conference.pdf) - Cross-model study showing lie-detection probes generalise across model families; argues for universal truth representations. (Bürger et al., NeurIPS 2024)
 - [Localizing Lying in Llama](https://arxiv.org/abs/2311.15131) - Combines prompting, probing, and causal patching to identify where in Llama instructed dishonesty is encoded. (Campbell et al., 2023)
 - [SafetyNet](https://arxiv.org/abs/2505.14300) - Monitors for harmful outputs by modelling deceptive LLM behaviours via activation patterns; deployment-oriented detection framework. (Chaudhary & Barez, 2025)
-
----
-
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
